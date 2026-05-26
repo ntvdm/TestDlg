@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestDlg</string>
+    <string-array name="theme_names">
+        <item>Device Default</item> 0
+        <item>Device Default Light</item> 1
+        <item>Holo</item> 2
+        <item>Holo Light</item> 3
+        <item>Material</item> 4
+        <item>Material Light</item> 5
+        <item>Standard</item> 6
+    </string-array>
+</resources>
